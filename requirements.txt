@@ -1,0 +1,2 @@
+MyTicTacToe
+colorama==0.4.3
